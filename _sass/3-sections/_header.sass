@@ -6,23 +6,28 @@ header
     font:
       size: 24px
       weight: 700
+    font-family: $headingFont
     a
       display: inline-block
-      color: rgba(0,0,0,1)
+      color: $accent
       &:hover
-        color: $accent-color
+        color: $accent-light
   nav
     float: right
     margin: 30px 30px 0 0
     a
       display: inline-block
       margin-left: 20px
-      color: rgba(0,0,0,1)
+      color: $accent
       font:
         size: 24px
         weight: 700
+      font-family: $headingFont
       &:hover
-        color: $accent-color
+        color: $accent-light
+      &.active
+        color: $accent-light
+        border-bottom: 2px solid $accent-light
 
 @media (max-width: 768px)
   header

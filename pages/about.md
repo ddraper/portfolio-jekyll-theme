@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About
+title: about
 permalink: /about
 ---
 
-# Portfolio Jekyll Theme
+Danny is a Seattle-based glass artist working in neon and blown glass. After being drawn like a moth to light-based night art for years, he found his way to working with neon through discovering the works of several talented local neon artists. He began his neon journey in 2021, and since then has studied at Western Neon, Radiant Neon, Pilchuck Glass School, and Pratt Fine Arts. After renting time at several places in Seattle, 2024 was a big year as he finally set up his own personal neon studio as has been working from there ever since.
 
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+Danny’s work so far has focused on invoking and understanding feelings of grief and love, primarily through temporary contextual neon installations. Music and memory often play big parts in his work. Most recently, Danny has been hand-pulling glass tubes in the hot shop and exploring the power and connection of manipulating the same piece of glass from its glowing molten state to its final neon glow.

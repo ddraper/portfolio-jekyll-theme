@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Contact
+title: contact
 permalink: /contact
 ---
 
-# Contact
-
-You may contact me [through my email](mailto:l.nguyen.paul@gmail.com) or [tweet at me](https://twitter.com/intent/tweet?text=%40paululele) if you have any questions or would like to bring up any issues.
+For contact and general inquiries, you can [send me an email](mailto:artist@danny-draper.com) or dm me on [instagram](https://instagram.com/dannydrrraper)
