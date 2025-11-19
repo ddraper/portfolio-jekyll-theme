@@ -11,9 +11,9 @@ menu:
 
 projects:
 - {name: 'Sisters',   url: 'proj-1'}
-- {name: 'Project Two',   url: 'proj-2'}
-- {name: 'Project Three', url: 'proj-3'}
-- {name: 'Project Four',  url: 'proj-4'}
+- {name: 'I Grieve Different',   url: 'proj-2'}
+- {name: 'Love Anchor', url: 'proj-3'}
+- {name: 'Rememory',  url: 'proj-4'}
 - {name: 'Project Five',  url: 'proj-5'}
 
 #-------------------------------
